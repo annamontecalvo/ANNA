@@ -17,11 +17,11 @@ export default {
 		<!-- Banner left contents -->
 		<div class="w-full md:w-1/3 text-left">
 			<h1
-				class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-center text-ternary-light uppercase"
+				class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-center text-ternary-dark uppercase"
 			>
 				Anna Mae Montecalvo.
 			</h1>
-            <p class="font-general-semibold text-sm text-center sm:text-center text-ternary-light">Portfolio</p>
+            <p class="font-general-semibold text-sm text-center sm:text-center text-ternary-dark">Portfolio</p>
 
 
 
